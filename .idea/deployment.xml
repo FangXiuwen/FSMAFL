@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@localhost:6003 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="fangxiuwen@172.16.158.174:8666">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fangxiuwen@172.16.158.174:8666 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fangxiuwen@172.16.2.129:8666">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mindspore">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tifs" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@localhost:6003 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/fsmafl" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@localhost:6003 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fangxiuwen/tifs" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
